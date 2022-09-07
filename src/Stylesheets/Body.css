@@ -1,0 +1,24 @@
+.lowerBody {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-width: 0.1rem 0 0 0;
+  border-style: solid;
+  display: flex;
+  flex-direction: row;
+  height: 800px;
+}
+
+.loadingOverlay {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.output {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}

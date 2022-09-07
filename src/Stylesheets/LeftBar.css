@@ -1,0 +1,47 @@
+#contained-button-file {
+  display: none;
+}
+
+.LeftBar {
+  width: 15%;
+  max-width: 12rem;
+  border-width: 0 0.1rem 0 0;
+  border-style: solid;
+  min-width: 9rem;
+}
+
+.uploadWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.FileList {
+  list-style: none;
+  padding: 0;
+}
+
+.ListItem {
+  display: flex;
+}
+
+.NameWrapper {
+  max-width: 79%;
+}
+
+.ButtonWrapper {
+  align-self: center;
+  margin-left: auto;
+}
+
+p {
+  overflow: hidden;
+}
+
+.gitContainer {
+  text-decoration: none;
+  color: grey;
+  position: absolute;
+  /*! top: 0rem; */
+  bottom: 0rem;
+  margin-bottom: 0.5rem;
+}

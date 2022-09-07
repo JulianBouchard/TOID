@@ -1,0 +1,36 @@
+.timeLineContainer {
+  display: flex;
+  padding: 0 0.5rem;
+}
+
+.timeLineWrapper {
+  width: 100%;
+  position: relative;
+  display: flex;
+  margin-right: 0.5rem;
+}
+
+.eventWrapper {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+}
+
+.line {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  border-color: #1976d2;
+  border-style: solid;
+  width: 100%;
+}
+
+.eventButton {
+  width: 1.25rem;
+  height: 1.25rem;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  padding: 0 !important;
+  border-radius: 100% !important;
+}

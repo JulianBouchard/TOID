@@ -1,0 +1,22 @@
+.TopBar {
+  margin-top: 1rem;
+}
+
+.startButton {
+  height: 100% !important;
+}
+
+.MainInput {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.radioWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+fieldset.MuiFormControl-root {
+  justify-content: center;
+}
